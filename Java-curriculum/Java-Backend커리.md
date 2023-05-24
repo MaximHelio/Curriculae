@@ -8,6 +8,6 @@
 
 ## 4. Spring Boot - HTTP 통신
 
-### 5. Spring Boot - WebSocket 통신
+## 5. Spring Boot - WebSocket 통신
 
-### 6. Spring Boot - JWT
+## 6. Spring Boot - JWT
