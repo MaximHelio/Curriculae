@@ -36,19 +36,29 @@ git push origin main
 
 # 3. 여러가지 git 개념
 
-#### git branch
+```bash
+git branch
+```
 
-#### git stash
+```bash
+git stash
+```
 
-#### git reset
+```bash
+git reset
+```
 
-#### git diff
+```bash
+git diff
+```
 
-#### git revert
+```bash
+git revert
+```
 
-#### git rebase
-
-
+```bash
+git rebase
+```
 
 # 4. 실무에 쓰이는 깃 협업 시나리오
 
@@ -68,6 +78,8 @@ git push origin main
 
 
 
-# 5. 그 외 문제 해결
+# 5. 그 외 
 
 > 1. 이미지를 마크다운(.md파일)에 추가하기 위해서는 해당 이미지를 깃허브에 파일 업로드를 같이 해줘야한다.
+> 2. README파일? 
+>    - 깃(Git) 자체적으로는 README 파일을 최상단에 위치한 마크다운 파일로 자동으로 인식하거나 특별한 처리를 하는 기능을 가지고 있지는 않는다. 하지만 깃 호스팅 플랫폼(예: GitHub, GitLab, Bitbucket)은 프로젝트 관리를 위해 일반적으로 README 파일을 프로젝트의 설명 및 문서화를 위한 핵심 파일로 인식하며, 프로젝트 페이지에서 README 파일의 내용을 표시하여 사용자들에게 프로젝트에 대한 정보를 제공한다. 따라서, README 파일을 최상단에 위치한 마크다운 파일로 작성하면, 해당 파일의 내용이 프로젝트 페이지에서 표시되는 것이다. 
