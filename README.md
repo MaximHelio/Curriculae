@@ -6,30 +6,30 @@
 
 # 목차
 
-- [Web Programming](Web-curriculum)
+- [Web Programming](Web-curriculum/README.md)
 
-- [git 부터 만들자](git-curriculum)
+- [git 부터 만들자](git-curriculum/README.md)
 
-  - [AWS](Aws-curriculum)
+  - [AWS](Aws-curriculum/README.md)
 
 - 재밌는 것부터 배우자
 
-  - [Python](Python-Crawler-curriculum)
+  - [Python](Python-Crawler-curriculum/README.md)
 
-  - [Web](Web-curriculum)
+  - [Web](Web-curriculum/README.md)
 
-  - [Javascript](Javascript-curriculum)
+  - [Javascript](Javascript-curriculum/README.md)
 
     - Vue
     - React
     - Typescript
     - Next
 
-  - [Java](Java-curriculum)
+  - [Java](Java-curriculum/README.md)
 
   - App
 
-    - [ios](ios-curriculum)
+    - [ios](ios-curriculum/README.md)
 
     - android
 
@@ -41,5 +41,5 @@
 
   - special 
 
-    - [proC](proC-curriculum)
+    - [proC](proC-curriculum/README.md)
 

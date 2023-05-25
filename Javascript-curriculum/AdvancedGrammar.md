@@ -1,4 +1,10 @@
+# this
+
+> 사용되는 위치에 따라 this키워드에 바인드 된 객체가 달라진다.
+
 # Destructruing
+
+### Array Destructuring
 
 일반적으로 배열에 저장된 요소에 접근하기 위해서는 배열에 저장된 순서인 인덱스 번호를 사용하게 된다.
 
@@ -63,3 +69,46 @@ let [
 console.log(class, idNum); // 1반, 2번
 ```
 
+### Object Destructuring
+
+# Scope
+
+> 선언된 변수에 대한 접근성을 의미
+
+# Default Function Parameter
+
+# Rest Parameter
+
+# Arrow Function
+
+# Template Literals
+
+# Object Literal Syntax Extension
+
+# Spread Operator
+
+# XMLHttpRequest
+
+# Fetch API
+
+# Promise & Async/Await
+
+> ❔Promise
+>
+> ❕ 자바스크립트에서 비동기 처리에 사용되는 객체. 비동기 처리란, **특정 코드의 실행이 완료될 때까지 기다리지 않고**, 다음 코드를 실행할 수 있게 해주는 방식을 의미
+
+# Modules
+
+# Class
+
+> 객체를 생성하기 위한 템플릿. 데이터와 이를 조작하는 코드를 하나로 추상화.
+
+
+
+# Error 처리
+
+# Strict Mode
+
+# 정규표현식
+
+> 문자열에 포함된 특정 문자 조합을 찾기 위해 사용되는 패턴
