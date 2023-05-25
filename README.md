@@ -16,7 +16,7 @@
 
   - [Python](Python-Crawler-curriculum)
 
-  - s[Web](Web-curriculum)
+  - [Web](Web-curriculum)
 
   - [Javascript](Javascript-curriculum)
 
@@ -39,7 +39,7 @@
 
     - medi-tech
 
-  - specical 
+  - special 
 
     - [proC](proC-curriculum)
 

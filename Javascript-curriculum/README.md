@@ -1,9 +1,10 @@
 # Javascript
 
 - [자바스크립트광야](outlineJs.md)
-- 기본 문법
+- [기본 문법](grammar.md)
+- [고급문법](AdvancedGrammar.md)
 
-# 내장함수
+# [내장함수](Built-inObject.md)
 
 # Ajax
 
