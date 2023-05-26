@@ -6,4 +6,4 @@
 - Flask
 - Fast API
 - Crawling
-- [Python으로 할 수 있는 pjt](pjt-with-Python)
+- [Python으로 할 수 있는 pjt](https://github.com/MaximHelio/Python-with-pjt)
