@@ -112,3 +112,5 @@ console.log(class, idNum); // 1반, 2번
 # 정규표현식
 
 > 문자열에 포함된 특정 문자 조합을 찾기 위해 사용되는 패턴
+>
+> [손에 잡히는 정규 표현식 | 벤 포터 - 교보문고 (kyobobook.co.kr)](https://product.kyobobook.co.kr/detail/S000001469840)

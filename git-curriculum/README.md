@@ -1,3 +1,7 @@
+# 0. INSTALL
+
+[[GITHUB 입문\] Git 설치하기(2.35.1 이상, 상세한 설치법) (tistory.com)](https://taewow.tistory.com/13) 참고
+
 # 1. 버전관리 개념
 
 > 하나의 버전이 관리되는 과정에서 효율적인 백업이 필요하다
