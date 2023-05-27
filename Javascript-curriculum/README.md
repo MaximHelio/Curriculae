@@ -24,7 +24,7 @@
 
 ### 자바스크립트 메모리
 
-### [Javascript 라이브러리 직접 구현해보기](https://github.com/MaximHelio/Curriculae/tree/main/Javascript-curriculum/JsApplication-Javascript를 이용해 만든 토이앱)
+### [Javascript 라이브러리 직접 구현해보기](JsLibrary/README.md)
 
 
 
