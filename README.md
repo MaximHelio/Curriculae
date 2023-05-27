@@ -42,4 +42,5 @@
   - special 
 
     - [proC](proC-curriculum/README.md)
+    - [Mathematics](Mathematics-curriculum/README.md)
 
