@@ -1,3 +1,5 @@
+> 자습서 : https://aws.amazon.com/ko/getting-started/tutorials
+
 # 필요한 서비스 찾기
 
 ![image-20230527030708176](README.assets/image-20230527030708176.png)
@@ -11,6 +13,8 @@
   ...
 
 # 리전 개념
+
+> https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
 
 > 여러 개의 데이터 센터를 클러스터링하는 물리적위치(서울 리전, 홍콩 리전 등)
 
