@@ -21,9 +21,11 @@
   - [Javascript](Javascript-curriculum/README.md)
 
     - Vue
+      - Nuxt
     - React
-    - Typescript
-    - Next
+      - Next
+
+  - Typescript
 
   - [Java](Java-curriculum/README.md)
 
@@ -40,7 +42,7 @@
     - medi-tech
 
   - special 
-
+  
     - [proC](proC-curriculum/README.md)
     - [Mathematics](Mathematics-curriculum/README.md)
 
