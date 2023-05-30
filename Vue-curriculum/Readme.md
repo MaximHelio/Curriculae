@@ -104,4 +104,4 @@ npm run serve
 
 # 다음
 
-- [nuxt.js](Nuxt-curriculum/README.md)
+- [nuxt.js](../Nuxt-curriculum/README.md)

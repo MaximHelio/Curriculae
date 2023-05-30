@@ -21,8 +21,8 @@
 
   - [Javascript](Javascript-curriculum/README.md)
 
-    - [Vue](Vue-curriculum/README.md)
-      - Nuxt
+    - [Vue](Vue-curriculum/Readme.md)
+      - [Nuxt](Nuxt-curriculum/README.md)
     - React
       - Next
 
