@@ -2,7 +2,8 @@
 
 > ❔프로그래밍이란
 >
-> ❕ 주어진 언어(Python, C, Java..)로 글쓰기를 하는 것
+> ❕ 주어진 언어(Python, C, Java..)로 글쓰기를 하는 것 
+>
 
 # 목차
 
@@ -20,7 +21,7 @@
 
   - [Javascript](Javascript-curriculum/README.md)
 
-    - Vue
+    - [Vue](Vue-curriculum/README.md)
       - Nuxt
     - React
       - Next
@@ -39,7 +40,7 @@
 
   - Applications
 
-    - medi-tech
+    - [medi-tech](Medical-diagnosis-AI-curriculum/README.md)
 
   - special 
   
