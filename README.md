@@ -46,3 +46,7 @@
     - [proC](proC-curriculum/README.md)
     - [Mathematics](Mathematics-curriculum/README.md)
 
+# 
+
+**LicenseProvided under the terms of the CC BY-NC 4.0 License.**
+**Copyright © 2023 [MaximHelio](maxi       milhac@gmail.com). **
