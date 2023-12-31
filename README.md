@@ -1,4 +1,4 @@
-# 코딩을 여행하는 히치하이커를 위한 안내서![image-20230525172525406](README.assets/dog2.jpg)
+# 코딩을 여행하는 히치하이커를 위한 안내서
 
 > ❔프로그래밍이란
 >
@@ -36,18 +36,16 @@
 
     - android
 
-      
-
   - Applications
 
     - [medi-tech](Medical-diagnosis-AI-curriculum/README.md)
 
   - special 
-  
+
     - [proC](proC-curriculum/README.md)
     - [Mathematics](Mathematics-curriculum/README.md)
 
-# 
+
 
 **LicenseProvided under the terms of the CC BY-NC 4.0 License.**
 

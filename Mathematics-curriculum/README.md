@@ -10,7 +10,7 @@
 
   
 
-## 1 티어. 머신러닝/딥러닝에 필요한 수학
+## 1 티어. [머신러닝/딥러닝에 필요한 수학](https://github.com/MaximHelio/Physical-Mathematics)
 
 #### 선형대수
 
